@@ -1,19 +1,17 @@
 👋 Hello, I'm Abed!
 
-I am a passionate software engineer with expertise in C, C++, and shell scripting. My journey in the world of coding has equipped me with a solid foundation in low-level programming, algorithm design, and system-level development. I thrive on tackling complex challenges and transforming ideas into efficient, robust solutions.
+I am a passionate software engineer focusing on front-end development. My journey in coding has equipped me with a solid foundation in low-level programming and system-level development, but I’ve found my true interest in crafting responsive, intuitive, and dynamic web interfaces that provide excellent user experiences.
 
 Key Skills:
 
-💻 C and C++: Proficient in writing clean, optimized code for a variety of applications.
-🐚 Shell Scripting: Experienced in automating tasks and streamlining workflows through shell scripting.
-🌐 Front-End Development: Adept at crafting responsive and user-friendly web interfaces.
+🌐 Front-End Development: Skilled in HTML, CSS, JavaScript, and React.js to build responsive, user-friendly web applications.
+
 What I Bring to the Table:
 
-✨ Problem Solving: I enjoy dissecting problems and architecting elegant solutions.
-🚀 Efficiency: Committed to writing code that not only works but is also efficient and maintainable.
-🤝 Collaboration: Enthusiastic about working with diverse teams to achieve common goals.
+✨ Problem Solving: I enjoy breaking down complex challenges and creating efficient solutions.
+🤝 Collaboration: I thrive in collaborative environments and am passionate about working with teams to deliver high-quality products.
 
-Feel free to explore my repositories and discover how I approach various coding challenges. If you have any questions or collaboration opportunities, don't hesitate to reach out. Let's build something amazing together!
+Feel free to explore my repositories to see how I tackle front-end development challenges. If you have any questions or opportunities for collaboration, don't hesitate to reach out. Let's build something amazing together!
 
 Happy coding! 🚀
 
