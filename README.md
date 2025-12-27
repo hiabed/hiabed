@@ -5,6 +5,7 @@ I am a passionate Full-Stack developer. My journey in coding has equipped me wit
 Key Skills:
 
 🌐 Front-End Development: HTML, CSS, JavaScript/TypeScript, and React.js/Next.js to build responsive and user-friendly web applications.
+
 🌐 Back-End Development: Node.js/Express.js, Nest.js,  Django, Postgres.
 
 What I Bring to the Table:
