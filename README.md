@@ -1,10 +1,11 @@
 👋 Hello, I'm Abed!
 
-I am a passionate software engineer focusing on front-end development. My journey in coding has equipped me with a solid foundation in low-level programming and system-level development, but I’ve found my true interest in crafting responsive, intuitive, and dynamic web interfaces that provide excellent user experiences.
+I am a passionate Full-Stack developer. My journey in coding has equipped me with a solid foundation in problem-solving and a variety of software engineering concepts (lately sticking to web development).
 
 Key Skills:
 
-🌐 Front-End Development: Skilled in HTML, CSS, JavaScript, and React.js to build responsive, user-friendly web applications.
+🌐 Front-End Development: HTML, CSS, JavaScript/TypeScript, and React.js/Next.js to build responsive and user-friendly web applications.
+🌐 Back-End Development: Node.js/Express.js, Nest.js,  Django, Postgres.
 
 What I Bring to the Table:
 
